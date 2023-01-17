@@ -31,3 +31,13 @@ ____
 
 ### 7. Test Completion (завершение) ###
 #### = test summary report ####
+________
+
+"You don't began a step until you finished the step before"
+_____
+
+- Many of these activities groups may appear logicaly sequential, they are often implemented iteratively
+
+- Agile development involves small iterations of software design, build and test that happen on a continuous basis supported by on-going planning
+
+- Even in sequential development the stepped logical sequence of activities will involve overlap.
