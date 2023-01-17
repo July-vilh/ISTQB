@@ -30,16 +30,16 @@ ___________
 
 ### Test Monitoring and Control ###
 
-#### Monitoring is on-going comparison of actual progress against the test plan using any test monitoring defined in the test plan. ####
+#### - Monitoring is on-going comparison of actual progress against the test plan using any test monitoring defined in the test plan. ####
 
 I write 1000 test-cases each month. I planning write 2000 test cases. And I comparison actual result against test plan.
 
-#### Taking actions  to meet the objectives of the test plan. ####
+#### - Taking actions  to meet the objectives of the test plan. ####
 
-#### Supported by Exit Criteria (Criteria, that define: we finished this activity) or DOD (from Agile): Definition of Done. It is all about Control Activity. ####
+#### - Supported by Exit Criteria (Criteria, that define: we finished this activity) or DOD (from Agile): Definition of Done. It is all about Control Activity. ####
 
 Control is based on monitoring activities. In order to monitor my progress take the correct actions.
 
 In the control activities consist Exit Criteria.
 
-#### Test progress against the plan is communicated to stakeholders in test progress reports. ####
+#### - Test progress against the plan is communicated to stakeholders in test progress reports. ####
