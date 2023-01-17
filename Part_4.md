@@ -132,3 +132,120 @@ EX.: AMAZON
 - q.2 = WNAT IS THE HARDWARE THAT THIS APPLICATION WILL BE TESTED ON (POCO X3 NFC with 24 mPxl camera, 40 gB memory etc.)
 
 - q.3 = WHAT TYPE OF NETWORK THAT THIS IEST APPLICATION WILL BE TESTED ON (4G, 5G, 3G)
+
+__________________
+
+## TEST IMPLEMENTATION (РЕАЛИЗАЦИЯ) ##
+
+- ARRANGE = УПОРЯДОЧИВАТЬ
+
+- SCHEDULE = ГРАФИК
+
+- SUIT = НАБОР
+
+- TEST SUIT = like folder that contain test cases
+
+### 1. Do we now have everything in place to run the tests? Есть ли у нас теперь все необходимое для проведения тестов? ###
+
+### 2. Develop and prioritize test procedures ###
+
+### 3. Create test suites, arrange them in test execution schedule / Создавайте наборы тестов, упорядочивайте их по расписанию выполнения тестов ###
+
+### 4. Build test environment ###
+
+____________________
+
+## TEST EXECUTION (ВЫПОЛНЕНИЕ) ##
+
+- CONFIRMATION (от CONFIRM) = ПОДТВЕРЖДЕНИЕ
+
+- DISCRIPTION = ОПИСАНИЕ
+
+- IMPACT = ВЛИЯНИЕ
+
+____
+
+### 1. RUN THE TEST SUITES ###
+
+it's mean that we run the test cases in our test suites
+
+### 2. COMPARE ACTUAL RESULT WITH EXPECTED RESULT ###
+
+if they are the same = this test cases PASSED
+
+if they are different = this test cases FAILED
+
+### 3. REPORT DEFECTS ###
+
+CONTAINS: 
+
+- 1) BUG ID (ID number, Name, Reporter, Submit Date)
+
+- 2) BUG OVERVIEW (Summary, URL, Screenshot)
+
+- 3) ENVIRONMENT (Platform, Operating system, Browser(
+
+- 4) BUG DETAILS (Steps to reproduce, Expected result, Actual result, Discription)
+
+- 5) BUG TRACKING (Severity, Assign to, Priority)
+
+#### PRIORITY = HOW IMPORTANT IS THIS DEFECT TO THE BUSINESS (IN JIRA: HIGH, LOW, etc.) ####
+
+#### SEVERITY = is not depending on the business if severity f.ex. major = it means a high impact on the user ####
+
+- 6) NOTES
+
+_________
+
+### 4. CONFIRMATION AND REGRESSION TESTING ###
+
+_________________________
+
+## TEST COMPLETION (ЗАВЕРШЕНИЕ) ##
+
+Steps that come after test execution
+
+We need to make a decision: we perform enough testing in this part of the project or not
+
+- OCCURS = ПРОИСХОДИТ
+
+- MILESTONES = ОСНОВНЫЕ ЭТАПЫ
+
+- HAND OVER = ПЕРЕДАТЬ
+
+- DEFFERED DEFECT = ОТЛОЖЕННЫЙ БАГ
+
+_____
+
+### 1) Collect data from completed test activities ###
+
+Сбор данных из завершенных тестовых действий
+
+collect information based on the execution (hoe many cases did we find, how many defects did we find, how many defects are solved, what about priority and severity of each defect
+
+### 2) Occurs at project milestones ###
+
+Происходит на основных этапах проекта
+
+### 3) Check Defects Reports ###
+
+DEFFERED DEFECTS = unsolved defects (not be solve now and will be solved letter (next week or mounth
+
+### 4) Create test summary reports (what nappenes in those test progress reports) ###
+
+- the same as the test progress report
+
+- having in the end of activity
+
+! if I create unit tests for app (for 1 mounth): test progress reports can happened each week of this mounth
+
+! but test summary report happenes in the end of this mounth
+
+SUMMARY REPORT make be not only in test completion but also make be in TEST MONITORING AND CONTROL
+
+### 5) Hand over the testware ###
+
+Передать тестовое программное обеспечение
+
+ONLY FOR BIG COMPANY
+
