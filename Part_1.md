@@ -93,7 +93,160 @@ ____________________________
 
 ### 4. Acceptance testing ###
 
-_____
+
+### Testing/Debugging/Confirmation testing ###
+
+Confirmation testing (Re-testing) - подтверждающее тестирование = тестирование, при котором выполняются тестовые сценарии которые были не пройдены при последнем запуске с целью подтвердить успешность исправления
+
+- Re-testing = to reproduce same steps that leads (приводят) to bugs
+
+When this bug is exist (существует) - tester re-open this bug again
+
+When this bug is not exist - all is good
+
+___
+
+Responsibility = ответственность
+
+___
+
+Testing (resp = tester) - Debugging (resp = developer) - Re-testing (resp = tester)
+
+BUT
+
+In Agile development testers may be involved in debugging and components testing
+
+_________________________
+
+### 1. Testing = tester send bugreport to developer ###
+
+### 2. Debugging = to remove the bug. Developer remove the bug (opennind the code and fix) ###
+
+### 3. Confirmation testing (Re-testing) ###
+
+### Debugging = identify the cause of a defect, reparing the code and checking the fix is correct = a developer finds and fixes a defect ###
+
+- Dynamic testing shows failures caused by defects.
+
+- Debugging finds, analyzes, and removes the causes of failures in the software.
+
+_______
+CONTRIBUTION = ВКЛАД 
+
+### Tester's Contribution (вклад) to success ###
+
+#### 1. Rewiev the requirements. ####
+
+Reduce the risk of incorrect untestable functionality being developed.
+
+#### 2. Review the design. ####
+
+Reduce the risk of design defects and enable (включение) tests to be identified at an early stage.
+
+#### 3. Review the code (testers work closely with developers) ####
+
+Reduce the risk of defects within (внутри) the code and the tests.
+
+- static way (which language, dicumentation, standarts)
+
+- dynamic way (White Box Technique, Unit testing)
+
+#### 4. Review and tests the final product (verify and validate the software) ####
+
+_________________
+
+- ADHERENCE TO PROPER PROCESSES = соблюдение надлежащих процессов
+
+- DEFECT PREVENTION = предотвращение дефектов
+
+___
+
+## QA ##
+
+is typically focused on adherence to proper processes
+
+Proper processes - Work product higher - defect prevention
+
+- ACHIEVEMENT = достижение
+
+- APPROPRIATE = соответствующий
+
+## QC ##
+
+involves various activities, including test activities that support the achievement of appropriate levels of quality
+
+- REGARDS = ОТНОСИТСЯ
+
+### QC regards the product ###
+
+### QA regards the process ###
+
+___
+
+- 1. QA about PROCESS. If we QA apply in correct way - we are prevent defects
+
+- 2. QC abouT PRODUCT. If we QC apply in correct way - we will find not prevent defects.
+
+__
+
+!!! QC is a part of QA (is a part of process (QA))
+
+can defects the failures that might have been missed and support the process of removing the defects that caused the failures (debugging)
+
+
+_______________
+
+## 1. Error/ Mistake ##
+
+- developer writting code and then make mistake while writting code
+
+- product owner writting requirements and then make mistake in the requirements
+
+___
+
+## 2. Defects (Bug/ Fault) ##
+
+Defect is a result of the error.
+
+Developer make mistake while writting code/ This error caused a defect of the code
+
+Mistakes can lead to the introduction of a defect.
+
+A requirements error can lead to a requirements defect - then developer make mistake in the code because requirements have error - as a result = a defect in the code
+____
+
+## 3. Failure ##
+
+= the software isn't apply to perform this functional (программное обеспечение не применяется для выполнения этой функции)
+
+When I click on the login and button doesn't working = it is a failure.
+
+NOT ALL DEFECTS CAUSED FAILURES.
+
+ERROR/MISTAKE - DEFECT - FAILURE OR NOT FAILURE
+
+___
+
+## WHY DO ERRORS HAPPEN? ##
+
+### 1. TIME PRESSURE = НЕХВАТКА ВРЕМЕНИ ###
+
+### 2. HUMAN FALLIBILITY = ЧЕЛОВЕЧЕСКАЯ ПОДВЕРЖЕННОСТЬ ОШИБКАМ ###
+
+### 3. LACK OF EXPERIENCE = НЕДОСТАТОК ОПЫТА ###
+
+### 4. MISCOMMUNICATION between team members ###
+
+### 5. COMPLEXITY OF WORK PRODUCT = СЛОЖНОСТЬ РАБОЧЕГО ПРОДУКТА ###
+
+### 6. SYSTEM INTERACTIONS = ВЗАИМОДЕЙСТВИЕ С СИСТЕМОЙ ###
+
+### 7. NEW TECHNOLOGIES ###
+
+### 8. ENVIROMENTAL CONDITIONS ###
+
+________________________
+
 ### Errores of testers: ###
 
 #### 1. False Positive ####
@@ -138,3 +291,9 @@ significate = значительный
 ___
 
 Root cause analysis can lead to process improvents that prevent a significant number of future defects from being introduced
+
+_______________________
+
+
+
+
