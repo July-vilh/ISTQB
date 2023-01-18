@@ -264,3 +264,15 @@ _______________________
 ## 6. TEST EXECUTION = STATUS OF TEST DEFECTS - DEFECT REPORTS ##
 
 ## 7. TEST COMPLETION = TEST SUMMARY REPORTS - CHANGE REQUESTS ##
+
+____________________
+
+## Tester's Mindset ##
+
+### 1. Curiosity = Любопытство ### 
+
+### 2. Professional Pessimism ### 
+
+### 3. Attention to Detail ### 
+
+### 4. Critical Eye ### 
