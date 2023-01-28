@@ -1,5 +1,7 @@
 ## TEST PLANNING ##
 
+!!!!!!!!! THE TEST DESIGN AND THE TEST IMPLEMENTATION ARE OFTEN COMBINED !!!!!!!!!!!!! 
+
 Defining oblectives of testing and the approaches to meet these objectives.
 
 - DEFINING = Определение
