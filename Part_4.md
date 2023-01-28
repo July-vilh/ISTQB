@@ -276,3 +276,7 @@ ____________________
 ### 3. Attention to Detail ### 
 
 ### 4. Critical Eye ### 
+
+________________________________
+
+the customer complaints  = ЖАЛОБЫ КЛИЕНТОВ
