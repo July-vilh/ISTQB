@@ -12,6 +12,8 @@ ___
 
 Testing everything is not feasible except for trivial cases (yes/no)
 
+feasible except  = осуществимо за исключением 
+
 ExHaustive = Исчерпывающее
 
 Feasible = Осуществимо
