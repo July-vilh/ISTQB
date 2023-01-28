@@ -12,7 +12,9 @@ ___
 
 Testing everything is not feasible except for trivial cases (yes/no)
 
-feasible except  = осуществимо за исключением 
+feasible except  = осуществимо за исключением (синоним слова FEASIBLE = POSSIBLE)
+
+* TESTING EVERYTHING IS NOT POSSIBLE EXCEPT FOR TRIVIAL CASES (YES/ NO)
 
 ExHaustive = Исчерпывающее
 
@@ -44,7 +46,9 @@ ___
 
 If the same tests are repeated over and over again, these tests no longer find any new defects.
 
-BEWARE = остерегаться
+BEWARE = остерегаться (СИНОНИМ СЛОВА BEWARE = AVOID)
+
+* AVOID OF PESTICIDE PARADOX
 
 Test cases on something functionality should be contains new scenarious for these test cases.
 
