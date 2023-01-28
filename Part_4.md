@@ -279,4 +279,4 @@ ____________________
 
 ________________________________
 
-the customer complaints  = ЖАЛОБЫ КЛИЕНТОВ
+the customer complaints  = ЖАЛОБЫ КЛИЕНТОВ (AN EFFECT) !!!!!!!!
