@@ -1,14 +1,20 @@
 # =================  SDLC  =============
 
+
+
 1. SEQUENTIAL (ПОСЛЕДОВАТЕЛЬНЫЙ)
 
 We have sequents of steps (test planning. design, execution)
+
+
 
 ## ================   SEQUENTIAL MODEL   ==============
 
 * describes the software development process as A LINER SEQUENTIAL FLOW of activities
 * any phase in the development process should BEGIN WHEN THE PREVIOUS PHASE IS COMPLETE!
 * to have EARLY FEEDBACK from the following phase
+
+  
 
 ## =================  INCREMENTAL DEVELOPMENT ================
 
