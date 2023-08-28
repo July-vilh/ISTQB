@@ -27,5 +27,17 @@ ___________________________________________________________-
 
 ## 1) COMPONENT (UNIT) TESTING
 
+### 1.1. OBJECTIVES 
+
+Reduce risk-find defects-prevent defects escape-verify behavior-Build confidence
+
+### 1.2. TEST BASIS
+
+Detailed Design-code-data Model-Component specification
+
+### 1.3. TEST OBJECTS
+
+Components- Units - Modules - Code - Data - Structures - Classes - DB Models
+
 Component (Unit) testing = focuses on components that are separately testable
 
