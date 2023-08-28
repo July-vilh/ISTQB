@@ -37,6 +37,10 @@ Reduce risk-find defects-prevent defects escape-verify behavior-Build confidence
 
 Detailed Design-code-data Model-Component specification
 
+### 1.3. Responsibility = developer (+ TDD)
+
+> TDD ( Test Driven Development) = developing automated test cases, than building and integrating small pieces of cod, then executing the component tests. correcting any issues and re-dactoring the code
+
 ### 1.3. TEST OBJECTS
 
 Components- Units - Modules - Code - Data - Structures - Classes - DB Models
